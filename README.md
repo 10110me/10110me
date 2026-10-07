@@ -1,5 +1,3 @@
-# 欢迎来到我的主页！🐍
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/10110me/10110me/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/10110me/10110me/output/github-snake.svg">
